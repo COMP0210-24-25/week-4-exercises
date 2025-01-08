@@ -1,0 +1,5 @@
+/home/mmcleod/COMP0210/week4_exercises/RayTrace/build/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/RayTrace/build/CMakeFiles/rebuild_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/RayTrace/build/source/CMakeFiles/renderer.dir
+/home/mmcleod/COMP0210/week4_exercises/RayTrace/build/source/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/RayTrace/build/source/CMakeFiles/rebuild_cache.dir

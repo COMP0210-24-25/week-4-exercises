@@ -1,0 +1,6 @@
+/home/mmcleod/COMP0210/week4_exercises/Animals/build/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/Animals/build/CMakeFiles/rebuild_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/Animals/build/src/CMakeFiles/Animals.dir
+/home/mmcleod/COMP0210/week4_exercises/Animals/build/src/CMakeFiles/animalsSpeak.dir
+/home/mmcleod/COMP0210/week4_exercises/Animals/build/src/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/Animals/build/src/CMakeFiles/rebuild_cache.dir

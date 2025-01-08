@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/renderer.dir/Scene.cpp.o CMakeFiles/renderer.dir/Shapes.cpp.o -o ../bin/renderer 

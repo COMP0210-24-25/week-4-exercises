@@ -1,0 +1,4 @@
+/home/mmcleod/COMP0210/week4_exercises/DimensionalAnalysis/build/CMakeFiles/no_analysis.dir
+/home/mmcleod/COMP0210/week4_exercises/DimensionalAnalysis/build/CMakeFiles/with_analysis.dir
+/home/mmcleod/COMP0210/week4_exercises/DimensionalAnalysis/build/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week4_exercises/DimensionalAnalysis/build/CMakeFiles/rebuild_cache.dir
